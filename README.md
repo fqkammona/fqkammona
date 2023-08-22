@@ -1,5 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fqkammona&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fqkammona&theme=tokyonight)](https://git.io/streak-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fqkammona&langs_count=8)
 <!--
 **fqkammona/fqkammona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fqkammona&theme=gotham)](https://git.io/streak-stats)
