@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fqkammona&hide=Cmake,Makefile,TypeScript&langs_count=5)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fqkammona&hide=Cmake,Makefile,TypeScript&langs_count=7)
 <!--
 **fqkammona/fqkammona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fqkammona&theme=gotham)](https://git.io/streak-stats)
